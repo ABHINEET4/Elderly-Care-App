@@ -1,8 +1,7 @@
 # Elderly-Care-App
-</br>
 
-Welcome to the Elderly Care App, a simple web application designed to provide information, care tips, and medicine time alerts for elderly people.
-</br>
+Elderly Care App, it a simple web application designed to provide information, care tips, and medicine time alerts for elderly people.
+
 ## Functionalities
 
 ### 1. Home
